@@ -1,17 +1,119 @@
-﻿const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+const generatedBibEntries = {
+    "Shin2014Task": {
+        "author": "Shin, Joon-Ho and Ryu, Hokyoung and Jang, Seong Ho",
+        "doi": "10.1186/1743-0003-11-32",
+        "journal": "Journal of NeuroEngineering and Rehabilitation",
+        "keywords": "virtual_reality, rehabilitation, stroke, upper_extremity, video_games, clinical_experiment",
+        "number": "1",
+        "pages": "32",
+        "title": "A task-specific interactive game-based virtual reality rehabilitation system for patients with stroke: a usability test and two clinical experiments",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "volume": "11",
+        "year": "2014"
+    },
+    "Elor2018Project": {
+        "author": "Elor, Aviv and Teodorescu, Mircea and Kurniawan, Sri",
+        "doi": "10.1145/3265755",
+        "journal": "ACM Transactions on Accessible Computing",
+        "keywords": "virtual_reality, serious_games, therapy, rehabilitation, stroke, constraint_induced_therapy, HTC_Vive, immersive_VR",
+        "number": "4",
+        "pages": "1--25",
+        "title": "Project Star Catcher: A Novel Immersive Virtual Reality Experience for Upper Limb Rehabilitation",
+        "type": "article",
+        "volume": "11",
+        "year": "2018"
+    },
+    "Ma2018Validation": {
+        "author": "Ma, Mengxuan and Proffitt, Rachel and Skubic, Marjorie",
+        "doi": "10.1371/journal.pone.0202338",
+        "journal": "PLOS ONE",
+        "keywords": "Kinect, rehabilitation_game, validation, stroke, motion_capture, assessment, Mystic_Isle",
+        "number": "8",
+        "pages": "e0202338",
+        "title": "Validation of a Kinect V2 based rehabilitation game",
+        "type": "article",
+        "volume": "13",
+        "year": "2018"
+    },
+    "Koutsiana2020Serious": {
+        "author": "Koutsiana, Elisavet and Ladakis, Ioannis and Fotopoulos, Dimitris and Chytas, Achilleas and Kilintzis, Vassilis and Chouvarda, Ioanna",
+        "doi": "10.2196/19071",
+        "journal": "JMIR Serious Games",
+        "keywords": "serious_gaming, gamification, upper_extremity, upper_limb, rehabilitation, scoping_review",
+        "number": "4",
+        "pages": "e19071",
+        "title": "Serious Gaming Technology in Upper Extremity Rehabilitation: Scoping Review",
+        "type": "article",
+        "volume": "8",
+        "year": "2020"
+    },
+    "Villada2024Design": {
+        "author": "Villada Castillo, Julian Felipe and Montoya Vega, Maria Fernanda and Muñoz Cardona, John Edison and Lopez, David and Quiñones, Leonardo and Henao Gallo, Oscar Alberto and Lopez, Jose Fernando",
+        "doi": "10.2196/48900",
+        "journal": "JMIR Serious Games",
+        "keywords": "stroke, user_centered_design, exergame, design, virtual_reality, playtest, upper_limb_rehabilitation, usability_study",
+        "pages": "e48900",
+        "title": "Design of Virtual Reality Exergames for Upper Limb Stroke Rehabilitation Following Iterative Design Methods: Usability Study",
+        "type": "article",
+        "volume": "12",
+        "year": "2024"
+    },
+    "Dill2024Sensing": {
+        "author": "Dill, Sebastian and Müller, Philipp Niklas and Caserman, Polona and Göbel, Stefan and Hoog Antink, Christoph and Tregel, Thomas",
+        "doi": "10.2196/52153",
+        "journal": "JMIR Serious Games",
+        "keywords": "exergame_efficacy, motion_quality_assessment, vital_signs, body_sensors, camera, virtual_reality, scoping_review",
+        "pages": "e52153",
+        "title": "Sensing In Exergames for Efficacy and Motion Quality: Scoping Review of Recent Publications",
+        "type": "article",
+        "volume": "12",
+        "year": "2024"
+    },
+    "Lee2020Upper": {
+        "author": "Lee, Seung Hak and Jung, Hae-Yoon and Yun, Seo Jung and Oh, Byung-Mo and Seo, Han Gil",
+        "doi": "10.1002/pmrj.12206",
+        "journal": "PM&R",
+        "keywords": "virtual_reality, head_mounted_display, stroke, upper_extremity_rehabilitation, feasibility_study, immersive_VR",
+        "number": "3",
+        "pages": "257--262",
+        "title": "Upper Extremity Rehabilitation Using Fully Immersive Virtual Reality Games With a Head Mount Display: A Feasibility Study",
+        "type": "article",
+        "volume": "12",
+        "year": "2020"
+    },
+    "Haghighi2020Rehabilitation": {
+        "author": "Haghighi Osgouei, Reza and Soulsby, David and Bello, Fernando",
+        "doi": "10.2196/17289",
+        "journal": "JMIR Rehabilitation and Assistive Technologies",
+        "keywords": "rehabilitation_exergames, performance_assessment, similarity_score, motion_sensing, machine_learning, dynamic_time_warping, hidden_Markov_model",
+        "number": "2",
+        "pages": "e17289",
+        "title": "Rehabilitation Exergames: Use of Motion Sensing and Machine Learning to Quantify Exercise Performance in Healthy Volunteers",
+        "type": "article",
+        "volume": "7",
+        "year": "2020"
+    },
+    "Hocine2015Adaptation": {
+        "author": "Hocine, Nadia and Gouaïch, Abdelkader and Cerri, Stefano A. and Mottet, Denis and Froger, Jérôme and Laffont, Isabelle",
+        "doi": "10.1007/s11257-015-9154-6",
+        "journal": "User Modeling and User-Adapted Interaction",
+        "keywords": "adaptation, serious_games, physical_rehabilitation, stroke, upper_limb_rehabilitation, dynamic_difficulty_adjustment",
+        "pages": "65--98",
+        "title": "Adaptation in serious games for upper-limb rehabilitation: an approach to improve training outcomes",
+        "type": "article",
+        "volume": "25",
+        "year": "2015"
+    },
+    "Doumas2021Serious": {
+        "author": "Doumas, Ioannis and Everard, Gauthier and Dehem, Stéphanie and Lejeune, Thierry",
+        "doi": "10.1186/s12984-021-00889-1",
+        "journal": "Journal of NeuroEngineering and Rehabilitation",
+        "keywords": "stroke, upper_extremity, serious_games, virtual_reality, robotics, meta_analysis",
+        "number": "1",
+        "pages": "100",
+        "title": "Serious games for upper limb rehabilitation after stroke: a meta-analysis",
+        "type": "article",
+        "volume": "18",
+        "year": "2021"
     }
 };
