@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'Motion-Tracked Physiotherapy Games for Upper-Limb Rehabilitation';
+var title = 'Literature collection for COMP4037 CW3';
 
 /**
  * Relative path to the data directory
